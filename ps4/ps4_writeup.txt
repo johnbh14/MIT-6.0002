@@ -1,0 +1,4 @@
+1. The total population exponentially increases until it hits the ceiling for population density prior to the introduction of the antibiotic.
+2. The resistant population exponentially increases until it hits a lower ceiling than the total but follows a similar pattern prior to the introduction of the antibiotic.
+3. The total population falls dramatically as soon as the antibiotic is introduced and then it flattens out.
+4. The resistant population falls dramatically as soon as the antibiotic is introduced and then it flattens out in the same way that the total does.
